@@ -10,7 +10,7 @@ https://yadi.sk/i/hMOnImqQWkYJ-g
 
 
 ![ScreenShot](https://i.postimg.cc/DJCVXdGr/image.png[/img][/url])
-![ScreenShot]([img]https://i.postimg.cc/9zMHjK3J/image.png[/img][/url])
-![ScreenShot]([img]https://i.postimg.cc/qg5VBw40/image.png[/img][/url])
-![ScreenShot]([img]https://i.postimg.cc/vxDJLg7p/image.png[/img][/url])
+![ScreenShot](https://i.postimg.cc/9zMHjK3J/image.png[/img][/url])
+![ScreenShot](https://i.postimg.cc/qg5VBw40/image.png[/img][/url])
+![ScreenShot](https://i.postimg.cc/vxDJLg7p/image.png[/img][/url])
 
