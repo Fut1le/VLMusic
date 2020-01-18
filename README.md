@@ -1,11 +1,12 @@
-# VLMusic_MP3Player
-VL Music is open sourse project.
-It was made using java in the DevelNext studio development environment.
-Images:
-https://yadi.sk/i/24vhcVbWydPxXA
-https://yadi.sk/i/OX_M0Il3S6VYRg
-https://yadi.sk/i/LHHUjQ2IO7iHZQ
-https://yadi.sk/i/hMOnImqQWkYJ-g
+# VL Music is open sourse project.
+It was made using **PHP** in the DevelNext studio development environment.
+
+This is one of my first projects.  This is a music player with many features and its unique design.  The project is in the zip archive, in new versions of DevelNext they are automatically detected, just specify the path to the file.  
+
+## This is an old project and it may work unstably, errors on some new versions of DevelNext are also possible.
+
+### Where can you get the latest version of DevelNext?
+**Official website:** http://develnext.org
 
 
 
